@@ -1,0 +1,97 @@
+body {
+    background-color: gray;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+header {
+    font-size: 25px;
+}
+    
+.top {
+    margin: 15px;
+    text-decoration: none;
+    color: rgba(192, 189, 189, 0.753);
+
+}
+.top:hover {
+    text-decoration: underline;
+    color: rgb(163, 24, 24);
+}
+
+.moi {
+    float: left;
+    margin-left: 20px;
+    width: 130px;
+    height: 180px;
+    -webkit-transition: .3s ease-in-out; 
+    transition: .3s ease-in-out; 
+    }
+
+.moi:hover {
+        width: 130px;
+        height: 180px;
+        border-radius: 50%; 
+      }
+
+.div1, .div2{
+        border: 3px rgb(129, 40, 18) outset;
+        box-shadow: 6px 6px 3px rgba(0, 0, 0, 0.678);
+    }
+
+.mydiv{
+    text-align: center;
+    border-bottom: 3px rgb(129, 40, 18) outset;
+    border-right: 3px rgb(129, 40, 18) outset;
+    box-shadow: 6px 6px 3px black;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.gmail {
+    text-align: center;
+    text-decoration: none;
+}
+.gmail:hover {
+    color: black;
+}
+
+.adresse {
+    text-align: left;
+}
+.job {
+    text-align: right;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    text-shadow: 6px 6px 6px rgb(163, 40, 40);
+}
+
+h3 {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.site {
+    color: black
+}
+.site:hover {
+    text-decoration: underline;
+    color: brown;
+}
+
+.ciné {
+    width: 220px;
+    height: 220px;
+}
+.série {
+    width: 220px;
+    height: 220px;
+}
+.shonen {
+    width: 220px;
+    height: 220px;
+}

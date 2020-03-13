@@ -1,0 +1,74 @@
+body {
+    background-image: url(code.jpg);
+    color: white;
+    }
+
+ul {
+        list-style:none;
+} 
+
+.div1 {
+    opacity: 0.8;
+    color: white;
+    border: 1px solid #02AC15;
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 1px #02AC15;
+}
+
+.mail {
+    color: green;
+    text-decoration: none;
+}
+
+.a1 {
+    text-decoration: none;
+    color: #02AC15;
+}
+
+.titre {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+.titre1 {
+    text-align: center;
+    text-decoration: none;
+}
+
+.form, .exp {
+    width:500px;
+    float:left;
+    text-align: center;
+}
+
+.form {
+    margin-top: 40px;
+    border: 1px solid #02AC15;
+    background-color: black;
+    border-radius: 20px;
+    opacity: 0.8;
+    
+}
+
+.exp {
+        border: 1px solid #02AC15;
+        background-color: black;
+        border-radius: 20px;
+        opacity: 0.8;
+}
+.projets, .comp {
+    text-align: center;
+    clear: both;
+    border: 1px solid #02AC15;
+    background-color: black;
+    opacity: 0.8;
+    border-radius: 20px;
+}
+
+.div22 {
+    font-size: 20px;
+    color: red;
+    text-align: center;
+}

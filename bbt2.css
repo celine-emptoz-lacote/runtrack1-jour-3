@@ -1,0 +1,54 @@
+body {
+    background-image:url( fond.jfif) ;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    text-align: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.titre {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+h1 {
+    color: white;
+    font-size: 50px;
+}
+
+nav {
+    background-color: rgb(41, 211, 41);
+    padding: 30px;
+    box-shadow: 8px 8px 8px white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin: 50px;
+    font-size: 17px;
+    box-shadow: 8px 8px 8px black;
+}
+
+a:hover {
+    color: black;
+}
+
+/* Flou */
+.groupe {
+	-webkit-filter: blur(6px);
+	filter: blur(6px);
+	-webkit-transition: .5s ease-in-out;
+    transition: .5s ease-in-out;
+    width: 50%;
+}
+.groupe:hover {
+	-webkit-filter: blur(0);
+	filter: blur(0);
+}
+
+.intro {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}

@@ -1,0 +1,69 @@
+body {
+    background-color: #4ddbff;
+}
+
+h1 {
+    text-align: center;
+    font-family: fantasy;
+    
+}
+
+.div1 {
+    border-width:5px;
+    border-style:dotted;
+    border-color:black;
+}
+.a1 {
+    color: black;
+    }
+.titre {
+    color: black;
+    
+}
+span {
+    font-size: 15px;
+    font-family: cursive;
+}
+
+.titre1 {
+    text-align: center;
+}
+
+h2 {
+    font-family: monospace;
+}
+
+ul {
+    list-style:none;
+    }
+
+.p1 {
+     margin-left:50px;
+}
+
+.p2 {
+    margin-left: 100px;
+}
+
+.p3 {
+    margin-left: 150px;
+}
+
+.div22 {
+align-items: center;
+    color: red;
+}
+
+.laplt {
+    color: red;
+    text-decoration: none;
+}
+
+.projets {
+    text-align: center;
+}
+
+.scroll {
+    text-align: center;
+    color: red
+}

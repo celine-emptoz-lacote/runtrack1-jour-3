@@ -1,0 +1,44 @@
+body {
+    background-color:lightblue;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+    color: #196B89;
+}
+
+.logo {
+    border-radius: 20px;
+}
+
+nav {
+    background-color: #6FA8BC;
+    font-size: 20px;
+    padding:10px;
+    box-shadow: 8px 8px 8px #aaa;
+}
+
+a {
+    color:white;
+    text-decoration: none;
+    padding:10px;
+
+
+}
+
+a:hover{
+    color:red;
+    background-color: black;
+    padding: 10px;
+}
+
+.groupe {
+    width:50%;
+    border-radius: 20px;
+}
+
+.intro {
+    font-size: 20px;
+}
+

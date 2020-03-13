@@ -1,0 +1,104 @@
+body {
+    background-image: url("fond.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    color: white;
+    background-color: royalblue;
+    opacity: 0.85;
+    width: 30%;
+    text-align: center;
+    float: left;
+    padding-bottom: 39%;
+    border-radius: 10px;
+}
+/*couleur */
+.color {
+    color: blue;
+}
+
+/*en gras*/
+.bold {
+    font-weight: bold;
+}
+
+main {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-left: 50px;
+    text-shadow: 5px 5px 2px blue;
+    border-bottom: 5px solid lightcyan;
+    border-right: 5px solid lightcyan;
+    border-radius: 20px;
+    padding-bottom: 10px;
+}
+
+h2 {
+    color:royalblue;
+    font-family: cursive;
+}
+
+li {
+    list-style: none;
+}
+
+li:hover {
+    background-color: royalblue;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: White;
+    text-align: right;
+    font-weight: bold;
+    
+}
+
+a:hover {
+    color: royalblue;
+}
+
+
+.bold {
+    font-weight: bold;
+}
+
+div {
+    background-color: lightcyan;
+    text-align: left;
+    float: right;
+    width:65%;
+    padding: 10px;
+    border-radius: 10px;
+    
+    
+}
+
+footer {
+    clear: both;
+    text-align: right;
+}
+
+img{
+    width: 2%;
+   
+}
+
+.back {
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+    background-color: black;
+    padding: 5px;
+    border: 2px royalblue solid ;
+}
+

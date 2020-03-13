@@ -1,0 +1,35 @@
+body 
+{
+    background-image: url(FOND2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    text-align: center;
+}
+
+img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+img:hover {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
+
+#h1 
+{
+    color: blue;
+}
+p{
+    display: block;
+    width: 30%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    box-shadow:8px 8px 8px black;
+    border: 2px solid #fff;
+    margin: auto;
+    font-size: 20px;
+}
